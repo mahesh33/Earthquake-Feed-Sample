@@ -11,6 +11,7 @@ public class QuakeMain {
 		ArrayList<Quake> earthquakes = qm.getQuake("");
 		
 		System.out.println("TODAY'S EARTHQUAKE 2.5 AND HIGHER");
+		System.out.println("Lets see if the git is working or not!!");
 		
 	}
 
